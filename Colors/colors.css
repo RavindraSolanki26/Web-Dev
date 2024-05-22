@@ -1,0 +1,30 @@
+
+
+/* RGB color and RGBA color */
+
+/* h1{
+    color:red;
+     color:rgba(200, 100, 200, 0.3)
+}
+
+p{
+    color:rgb(20, 200, 88)
+    color:rgba(200, 100, 200, 0.3) 
+} */
+
+
+/* HSL and HSLA color */
+
+h1{
+    
+    color: hsl(50, 50%,50%);
+    /* color: hsla(200, 10%, 10%, 0.6); */
+}
+
+/* Hex Color
+#rrggbb
+*/
+
+p{
+    color: #00f390;
+}
